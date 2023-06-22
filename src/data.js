@@ -343,3 +343,125 @@ linkedinPostData[
  
 ];
 
+/**
+ * Woodmart demo Ecommerce single data design
+ */
+
+
+const product = [
+    {
+        id  :1,
+        productTitle    :"Wooden single drawer",
+        featuredImage   : "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2016/09/product-furniture-4-2.jpg",
+        galleryImage    :["img-1", "img-2", "img-3"],
+        regularPrice    : 4000,
+        sellPrice       : 3500,
+        sku             :"MNK-4315",
+        Category        :" Furniture",
+        share           :["facebook","instragram","linkedin","youtube"],
+        productDetails  :[
+            {
+                Description:
+                    {
+                        shortDescription: "Placerat tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur arcu nulla mattis fermentum adipiscing a et bibendum sed platea malesuada eget vestibulum tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur.",
+
+                        longDescription: "Placerat tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur arcu nulla mattis fermentum adipiscing a et bibendum sed platea malesuada eget vestibulum tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur.Placerat tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur arcu nulla mattis fermentum adipiscing a et bibendum sed platea malesuada eget vestibulum tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur."
+                        
+
+                    },
+                   
+                additionalInformation:
+                    {
+                        brandName: "Magisso",
+                        height  :"74cm",
+                        width   : "105cm",
+                        depth   :"45cm",
+                        material:"solid oak",
+                    },
+                review :[
+                    {
+                        id  :1,
+                        name: "xyz",
+                        profilePic: "image link",
+                        ratting: ["1start","2start", "3start", "4start", "5start"],
+                        content :"habitant ultrices consectetur arcu nulla mattis fermentum adipiscing a et bibendum",
+                        
+                    },
+                    {
+                        id  :2,
+                        name: "abc",
+                        profilePic: "image link",
+                        ratting: ["1start","2start", "3start", "4start", "5start"],
+                        content :"habitant ultrices consectetur arcu nulla mattis fermentum adipiscing a et bibendum",
+                        
+                    },
+                ]
+                
+            
+
+
+
+            }
+        ]
+       
+
+
+    },
+
+    {
+        id  :2,
+        productTitle    :"Wuller Bust Shirt",
+        featuredImage   : "https://a6n4d3q9.rocketcdn.me/wp-content/uploads/2017/04/fashion-default-product-10.jpg",
+        galleryImage    :["img-1", "img-2", "img-3"],
+        regularPrice    : 600,
+        sellPrice       : 500,
+        sku             :"MNK-4315",
+        Category        :" fashion",
+        share           :["facebook","instragram","linkedin","youtube"],
+        productDetails  :[
+            {
+                Description:
+                    {
+                        shortDescription: "Placerat tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur arcu nulla mattis fermentum adipiscing a et bibendum sed platea malesuada eget vestibulum tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur.",
+
+                        longDescription: "Placerat tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur arcu nulla mattis fermentum adipiscing a et bibendum sed platea malesuada eget vestibulum tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur.Placerat tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur arcu nulla mattis fermentum adipiscing a et bibendum sed platea malesuada eget vestibulum tempor dolor eu leo ullamcorper et magnis habitant ultrices consectetur."
+                        
+
+                    },
+                   
+                additionalInformation:
+                    {
+                        color:["black","white","merun","green", "pinck"],
+                        size:["S", "M", "L", "XL", "XXL"]
+                    },
+                review :[
+                    {
+                        id  :1,
+                        name: "xyz",
+                        profilePic: "image link",
+                        ratting: ["1start","2start", "3start", "4start", "5start"],
+                        content :"habitant ultrices consectetur arcu nulla mattis fermentum adipiscing a et bibendum",
+                        
+                    },
+                    {
+                        id  :2,
+                        name: "abc",
+                        profilePic: "image link",
+                        ratting: ["1start","2start", "3start", "4start", "5start"],
+                        content :"habitant ultrices consectetur arcu nulla mattis fermentum adipiscing a et bibendum",
+                        
+                    },
+                ]
+                
+            
+
+
+
+            }
+        ]
+       
+
+
+    }
+]
+
