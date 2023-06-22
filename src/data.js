@@ -294,9 +294,52 @@ linkedinPostData[
             name        : "Wolfspeed",
             profilePic  : "",
 
+        },
+
+    },
+ 
+    {
+        id              :1,
+
+        postContant     :"Useful HTTPs Status codes",
+
+        postMedia: "https://media.licdn.com/dms/image/D5622AQGsCXHIoBx2LQ/feedshare-shrink_800/0/1687172748108?e=1690416000&v=beta&t=QHNrfjwTzEyCTSfk5MHeaLGIyWpQL-pH-LKK8cIMNWE",
+        like        :202,
+        comment     :{
+            id          :1,
+            name        : "Colleen C",
+            position    :"Consultant 🦄 Prev: Sr Product Manager | Solutions Architect Sales Engineer | Project Management | Customer Success | Cross-functional | Results-driven | >15 yrs in Software",
+            content     : " 404…Found it! Then again, it’s “Not Found” ",
+            like        :1,
+            timeDate    :"2d ago",
+            reply       :{
+                id          :1,
+                name        :"Rajaram M",
+                position    :"Solution Architect | Multi Cloud Architect | Azure | AWS | AKS | Kubernetes | Devops",
+                content     :"😂",
+                like        :0,
+            }
+
+        },
+
+        repots      :[
+            {
+                id          :1,
+                name        : "xyz",
+                content     : "",
+            },
+        ],
+        autor       :{
+            id          :1,
+            name        : "Rajaram M",
+            position    :"Solution Architect | Multi Cloud Architect | Azure | AWS | AKS | Kubernetes | Devops",
+            profilePic  : "https://media.licdn.com/dms/image/D4D03AQER4vxucG6bsQ/profile-displayphoto-shrink_800_800/0/1667212685960?e=1692835200&v=beta&t=fuSUKWrLYiL_fiRS1DxV4M_h1mxrAu6FDT79546qNfc",
+
         }
 
 
     }
+
+ 
 ];
 
